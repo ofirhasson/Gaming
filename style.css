@@ -6,3 +6,9 @@ body{
 h1,h2{
     text-align: center;
 }
+.home-image{
+    width: 50%;
+}
+.container{
+    text-align: center;
+}
