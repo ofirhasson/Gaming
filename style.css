@@ -1,5 +1,7 @@
 body{
-    background-color: aqua;
+    height: 100%;
+    background-color: coral;
+    font-weight: bold;
     color: blueviolet;
 }
 
